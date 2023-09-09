@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<listeners>
+<listener class-name ="Academy.E2EndProject.Listeners" />
+</listeners>
+
+  <test name="Validating user">
+    <classes>
+      <class name="Academy.E2EndProject.Homepage"/>
+     </classes>  
+     </test> <!-- Test -->
+      <test name="Validating header and navnar">
+    <classes>
+      <class name="Academy.E2EndProject.validation"/>
+   </classes>  
+     </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="Academy.E2EndProject.Listeners"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="Validating user(failed)" verbose="0">
+    <classes>
+      <class name="Academy.E2EndProject.Homepage">
+        <methods>
+          <include name="HomePageNavigation"/>
+          <include name="BrowserClose"/>
+          <include name="getdriver"/>
+        </methods>
+      </class> <!-- Academy.E2EndProject.Homepage -->
+    </classes>
+  </test> <!-- Validating user(failed) -->
+  <test thread-count="5" parallel="tests" name="Validating header and navnar(failed)" verbose="0">
+    <classes>
+      <class name="Academy.E2EndProject.validation">
+        <methods>
+          <include name="BrowserClose"/>
+          <include name="getdriver"/>
+          <include name="validate"/>
+        </methods>
+      </class> <!-- Academy.E2EndProject.validation -->
+    </classes>
+  </test> <!-- Validating header and navnar(failed) -->
+</suite> <!-- Failed suite [Suite] -->

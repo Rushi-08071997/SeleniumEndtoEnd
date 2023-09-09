@@ -1,0 +1,9 @@
+22:50:40.484 [main] INFO  Resources.Base - text is verified
+22:50:40.622 [main] INFO  Resources.Base - test passed
+22:50:40.994 [main] INFO  Resources.Base - driver is closed
+22:53:01.312 [main] INFO  Resources.Base - driver is initialized
+22:53:02.953 [main] INFO  Resources.Base - driver is initialized
+22:53:08.956 [main] INFO  Resources.Base - Restrcited User
+22:53:12.397 [main] INFO  Resources.Base - NonRestrcited User
+22:53:15.656 [main] INFO  Resources.Base - text is verified
+22:53:15.736 [main] INFO  Resources.Base - test passed

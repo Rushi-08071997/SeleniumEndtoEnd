@@ -1,0 +1,9 @@
+12:56:51.543 [TestNG-tests-1] INFO  Resources.Base - Restrcited User
+13:58:02.385 [TestNG] INFO  Resources.Base - driver is initialized
+13:58:02.387 [TestNG] INFO  Resources.Base - driver is initialized
+13:59:15.635 [TestNG] INFO  Resources.Base - Restrcited User
+13:59:53.252 [TestNG] INFO  Resources.Base - text is verified
+13:59:53.323 [TestNG] INFO  Resources.Base - test passed
+13:59:53.489 [TestNG] INFO  Resources.Base - driver is closed
+17:40:58.530 [TestNG] INFO  Resources.Base - driver is initialized
+17:40:58.530 [TestNG] INFO  Resources.Base - driver is initialized

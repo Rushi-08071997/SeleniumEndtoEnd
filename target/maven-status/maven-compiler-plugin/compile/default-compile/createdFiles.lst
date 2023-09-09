@@ -1,0 +1,7 @@
+Resources\Base.class
+pageobject\Forgotpassword.class
+pageobject\LoginPage.class
+pageobject\LandingPage.class
+pageobject\Popuphandler.class
+Academy\E2EndProject\App.class
+Resources\ExtentReport.class

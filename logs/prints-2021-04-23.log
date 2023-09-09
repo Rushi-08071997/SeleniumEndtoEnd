@@ -1,0 +1,8 @@
+22:58:50.970 [main] INFO  Resources.Base - driver is closed
+22:36:13.070 [TestNG] INFO  Resources.Base - driver is initialized
+22:36:13.070 [TestNG] INFO  Resources.Base - driver is initialized
+22:36:18.614 [TestNG] INFO  Resources.Base - driver is closed
+22:36:20.151 [TestNG] INFO  Resources.Base - Restrcited User
+22:36:23.328 [TestNG] INFO  Resources.Base - NonRestrcited User
+22:41:50.391 [TestNG] INFO  Resources.Base - driver is initialized
+22:41:50.391 [TestNG] INFO  Resources.Base - driver is initialized

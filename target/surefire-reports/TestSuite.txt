@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 5, Time elapsed: 2.707 s <<< FAILURE! - in TestSuite
+getdriver(Academy.E2EndProject.Homepage)  Time elapsed: 1.742 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.manage()" because "this.driver" is null
+	at Academy.E2EndProject.Homepage.getdriver(Homepage.java:37)
+
+getdriver(Academy.E2EndProject.validation)  Time elapsed: 1.743 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.manage()" because "this.driver" is null
+	at Academy.E2EndProject.validation.getdriver(validation.java:30)
+

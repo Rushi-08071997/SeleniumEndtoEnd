@@ -1,0 +1,8 @@
+16:40:24.732 [main] INFO  Resources.Base - driver is initialized
+16:40:31.389 [main] INFO  Resources.Base - Restrcited User
+16:40:34.982 [main] INFO  Resources.Base - NonRestrcited User
+16:40:37.094 [main] INFO  Resources.Base - driver is initialized
+16:40:41.604 [main] INFO  Resources.Base - driver is closed
+16:42:20.565 [main] INFO  Resources.Base - driver is initialized
+16:42:26.438 [main] INFO  Resources.Base - Restrcited User
+16:42:30.643 [main] INFO  Resources.Base - NonRestrcited User
